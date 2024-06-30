@@ -80,3 +80,14 @@ Guido van Rossum began working on Python in the late 1980s as a successor to the
 
 Python consistently ranks as one of the most popular programming languages, and has gained widespread use in the machine learning community
 ~~~
+
+
+#### RAID  
+
+
+ - 여러 개의 디스크를 하나의 디스크처럼 사용
+ - 운영체제에서 sw로 구현하는 형태도 있음
+ - 2개 이상의 디스크가 묶여있어야 RAID라 부를 수 있다
+ - Linear RAID, RAID0 RAID1
+ - RAID5, RAID6
+ - 
